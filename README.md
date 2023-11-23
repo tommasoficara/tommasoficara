@@ -1,1 +1,1 @@
-Hello, I’m Tommaso. I am an Environmental Economist passionate about technology and AI. I am experienced in following programming languages: Python, R, SQL, Netlogo, AMPL. This repository contains my Master's Thesis and some of the academic and business projects I have worked on so far. 
+Hi, I'm Tommaso, an energy and climate policy expert with a passion for technology and AI. I am experienced in Python, R, SQL, Netlogo, AMPL. This repository contains some of my academic and non-academic projects I have worked on so far. Enjoy!
