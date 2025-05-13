@@ -1,1 +1,1 @@
-Hi, I'm Tommaso, an energy and climate policy expert with a passion for technology and AI. I am experienced in Python, R, SQL, Netlogo, AMPL. This repository contains some of my academic and non-academic projects I have worked on so far. Enjoy!
+Hi, I'm Tommaso, an energy and climate policy expert with a passion for technology. I am experienced in Python, R, SQL, Netlogo, AMPL. This repository contains some of my academic and non-academic projects I have worked on so far. Enjoy!
